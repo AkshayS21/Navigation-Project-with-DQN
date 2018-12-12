@@ -34,6 +34,8 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 Run the cell in Navigation_Project_Sub.ipynb as per the sequence. I have included the code for creating an instance of the Agent, Replay_Buffer as well as the Q-Network in the notebook itself. All the hyperparameters are initialized in these cells itself but you are welcome to change them as you wish. 
 
+I have provided explanation in the cells for almost every line of code to make it easy for new learners to understand the process of the project.
+
 I have also provided my trained model - Banana_saved_model.pth which gives an averag score of 13.10 in just 500 episodes. 
 
 ### Ideas for future work:
