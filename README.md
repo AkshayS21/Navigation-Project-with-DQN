@@ -49,5 +49,5 @@ Instead of using a Sequential Network, we will need to use Convolutional network
 More ideas on training an agent for pixel states can be taken from this research paper - https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 
 ### Note:
-If the above notebook does not display for some reason, please copy the link to the notebook and use this website - https://nbviewer.jupyter.org/
+If the jupyter notebook does not display for some reason, please copy the link to the notebook and use this website - https://nbviewer.jupyter.org/
 
