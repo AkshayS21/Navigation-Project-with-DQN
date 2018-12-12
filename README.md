@@ -4,7 +4,7 @@ Using the Deep Q-Learning Network to train an Agent for Navigation
 
 ### About the environment:
 
-For this project, I trained an agent to collect learn navigation in a Unity-ML type environment.
+For this project, I trained an agent to learn navigation in a Unity-ML type environment.
 Specifically, the trained agent will navigate (and collect bananas!) in a large, square world to maximize its rewards.
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. 
