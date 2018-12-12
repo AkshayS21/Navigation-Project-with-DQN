@@ -32,6 +32,19 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Instructions:
 
-Run the 
+Run the cell in Navigation_Project_Sub.ipynb as per the sequence. I have included the code for creating an instance of the Agent, Replay_Buffer as well as the Q-Network in the notebook itself. All the hyperparameters are initialized in these cells itself but you are welcome to change them as you wish. 
+
+I have also provided my trained model - Banana_saved_model.pth which gives an averag score of 13.10 in just 500 episodes. 
+
+### Ideas for future work:
+
+For this project, my agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction. A more challenging task would be to learn directly from pixels!
+
+This environment is almost identical to the project environment, where the only difference is that the state is an 84 x 84 RGB image, corresponding to the agent's first-person view of the environment.
+
+Instead of using a Sequential Network, we will need to use Convolutional network to extract information from the States.
+
+More ideas on training an agent for pixel states can be taken from this research paper - https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
+
 
 
