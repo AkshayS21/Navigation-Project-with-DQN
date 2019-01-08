@@ -38,6 +38,10 @@ I have provided explanation in the cells for almost every line of code to make i
 
 I have also provided my trained model - Banana_saved_model.pth which gives an averag score of 13.10 in just 500 episodes. 
 
+The plot of Episode vs Scores is as follows:
+
+![](score.PNG)
+
 ### Ideas for future work:
 
 For this project, my agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction. A more challenging task would be to learn directly from pixels!
