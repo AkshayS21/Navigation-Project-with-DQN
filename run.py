@@ -3,6 +3,13 @@
 
 from unityagents import UnityEnvironment
 import numpy as np
+import numpy as np
+import random
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+from collections import namedtuple,deque
 
 
 # please write the path of Banana.exe here)
