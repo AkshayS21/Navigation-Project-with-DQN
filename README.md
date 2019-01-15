@@ -32,7 +32,11 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Instructions:
 
-Run the cell in Navigation_Project_Sub.ipynb as per the sequence. I have included the code for creating an instance of the Agent, Replay_Buffer as well as the Q-Network in the notebook itself. All the hyperparameters are initialized in these cells itself but you are welcome to change them as you wish. 
+Please run ``` python run.py ``` to evaluate my trained weights.
+
+run ``` python train.py ``` to train your own weights.
+
+Run the cell in Navigation_Project_Sub.ipynb as per the sequence. I have included the code for creating an instance of the Agent, Replay_Buffer as well as the Q-Network in the notebook itself and separate modules for each. All the hyperparameters are initialized in these cells itself but you are welcome to change them as you wish. 
 
 I have provided explanation in the cells for almost every line of code to make it easy for new learners to understand the process of the project.
 
