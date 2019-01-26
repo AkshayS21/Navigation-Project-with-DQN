@@ -1,7 +1,7 @@
 # Navigation-Project-with-DQN
 Implementation of the Deep Q-Network (DQN) algorithm to solve a Navigation environment. The algorithm for the DQN agent was introduced in this [paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
 
-
+![](banana.png)
 
 
 ### About the environment:
