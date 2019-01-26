@@ -50,9 +50,9 @@ The plot of Episode vs Scores is as follows:
 
 ### Ideas for future work:
 
-For this project, my agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction. A more challenging task would be to learn directly from pixels!
+For this project, my agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction. 
 
-This environment is almost identical to the project environment, where the only difference is that the state is an 84 x 84 RGB image, corresponding to the agent's first-person view of the environment.
+A more challenging task would be to learn directly from pixels!. The pixel environment is almost identical to the environment I solved, where the only difference is that the state is an 84 x 84 RGB image, corresponding to the agent's first-person view of the environment.
 
 Instead of using a Sequential Network, we will need to use Convolutional network to extract information from the States.
 
